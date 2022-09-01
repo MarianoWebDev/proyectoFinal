@@ -1,0 +1,25 @@
+.iconos a {
+    text-decoration: none;
+    color: white;
+    margin: 10px;
+    font-size: 25px;
+        }
+
+.iconos a i:hover {
+    color: rgb(141, 3, 6);
+    transform: scale(1.1);
+    transition: ease-in-out 0.1s;
+        }
+
+.su-youtube {
+    margin: 0 auto;
+    text-align: center;
+    }
+
+#contactoSeccion {
+    margin: 10px;
+}
+        
+.site-footer {
+    height: 100px;
+        }
