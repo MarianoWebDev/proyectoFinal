@@ -17,7 +17,21 @@
     }
 
 #contactoSeccion {
-    margin: 10px;
+    overflow: hidden;
+    margin: 5px;
+}
+
+.subtituloSeccion {
+    text-align: center;
+}
+
+#tituloContacto {
+    text-align: center;
+}
+
+#tituloIndex {
+    text-align: center;
+    margin-top: 5px;
 }
         
 .site-footer {
