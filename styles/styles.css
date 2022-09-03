@@ -10,11 +10,13 @@
     transform: scale(1.1);
     transition: ease-in-out 0.1s;
         }
+        
 
-.su-youtube {
-    margin: 0 auto;
+.su-youtube {    
     text-align: center;
     }
+
+
 
 #contactoSeccion {
     overflow: hidden;
