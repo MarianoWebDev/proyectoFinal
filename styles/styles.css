@@ -21,6 +21,10 @@ body {
     overflow-x: hidden;
 }
 
+.row {
+    overflow-x: hidden;
+}
+
 #contactoSeccion {
     overflow: hidden;
     margin: 5px;
