@@ -17,6 +17,9 @@
     }
 
 
+body {
+    overflow-x: hidden;
+}
 
 #contactoSeccion {
     overflow: hidden;
