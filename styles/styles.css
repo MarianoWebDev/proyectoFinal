@@ -25,13 +25,13 @@
     text-align: center;
 }
 
-#tituloContacto {
-    text-align: center;
-}
-
 #tituloIndex {
     text-align: center;
     margin-top: 5px;
+}
+
+#galeriaFotos {
+    margin-bottom: 100px;
 }
         
 .site-footer {
