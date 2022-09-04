@@ -10,20 +10,11 @@
     transform: scale(1.1);
     transition: ease-in-out 0.1s;
         }
-        
-
+    
 .su-youtube {    
     text-align: center;
     }
 
-
-body {
-    overflow-x: hidden;
-}
-
-.row {
-    overflow-x: hidden;
-}
 
 #contactoSeccion {
     overflow: hidden;
