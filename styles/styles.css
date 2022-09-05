@@ -33,6 +33,10 @@
 #galeriaFotos {
     margin-bottom: 100px;
 }
+
+#botonArriba {
+    text-align: center;
+}
         
 .site-footer {
     height: 100px;
